@@ -8,4 +8,4 @@ var element = document.getElementById("level");
   }
 
   return level;
-alert("The level of the element is:""+level);
+alert("The level of the element is:"+level);
