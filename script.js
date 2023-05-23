@@ -7,5 +7,4 @@ var element = document.getElementById("level");
     level++;
   }
 
-  return level;
 alert("The level of the element is:"+level);
